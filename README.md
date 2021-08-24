@@ -4,8 +4,8 @@
 
 Technologies used in project:
 
-HTML5
-CSS3 (SCSS)
-Figma
-BEM-methodology
-Adaptive design
+- HTML5
+- CSS3 (SCSS)
+- Figma
+- BEM-methodology
+- Adaptive design
